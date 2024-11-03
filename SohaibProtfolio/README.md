@@ -7,7 +7,7 @@
 This repository contains **final code** for Next.js Creative Portfolio website built using Next.js and Three.js. <br />
 
 For Demo checkout following link👇: <br />
-[Nextjs Creative Portfolio Website Demo]() <br />
+[Nextjs Creative Portfolio Website Demo](https://protfolio-rho-fawn.vercel.app/) <br />
 
 Starter Code Files👇: <br />
 ➡ Link 💚: [Nextjs Creative Portfolio Website Starter Code](https://github.com/SohaibTouseef/Protfolio) <br />
@@ -20,22 +20,22 @@ Starter Code Files👇: <br />
 ## Images of The Portfolio Website:
 
 #### Home
-![Nextjs Creative Portfolio Website](https://github.com/SohaibTouseef/Protfolio/blob/main/public/wesite-images/Home-desktop.png.png)
+![Nextjs Creative Portfolio Website](https://github.com/SohaibTouseef/Protfolio/blob/main/SohaibProtfolio/public/wesite-images/Home-desktop.png.png)
 
 #### About
-![Nextjs Creative Portfolio Website About Page](https://github.com/SohaibTouseef/Protfolio/blob/main/public/wesite-images/About-desktop-full.png.png)
+![Nextjs Creative Portfolio Website About Page](https://github.com/SohaibTouseef/Protfolio/blob/main/SohaibProtfolio/public/wesite-images/About-desktop-full.png.png)
 
 #### Projects
-![Next.js Creative Portfolio Website Projects Page](https://my-protfolio-git-sohaibtouseef-patch-1-sohaib-touseefs-projects.vercel.app/projects)
+![Next.js Creative Portfolio Website Projects Page](https://github.com/SohaibTouseef/Protfolio/blob/main/SohaibProtfolio/public/wesite-images/Projects-desktop.png.png)
 
 #### Contact
-![Next.js Creative Portfolio Website Contact Page](https://github.com/SohaibTouseef/Protfolio/blob/main/public/wesite-images/Contact-desktop.png.png)
+![Next.js Creative Portfolio Website Contact Page](https://github.com/SohaibTouseef/Protfolio/blob/main/SohaibProtfolio/public/wesite-images/Contact-desktop.png.png)
 
 #### Mobile Version
-![Next.js Creative Portfolio Website Contact Page](https://github.com/SohaibTouseef/Protfolio/blob/main/public/wesite-images/Home-mobile.png.png)
-![Next.js Creative Portfolio Website Contact Page](https://github.com/SohaibTouseef/Protfolio/blob/main/public/wesite-images/About-mobile.png.png)
-![Next.js Creative Portfolio Website Contact Page](https://github.com/SohaibTouseef/Nextjs-Creative-Portfolio-Starter-Code-Files/blob/main/website%20images/Projects-mobile.png)
-![Next.js Creative Portfolio Website Contact Page](https://github.com/SohaibTouseef/Protfolio/blob/main/public/wesite-images/Contact-mobile.png.png)
+![Next.js Creative Portfolio Website Contact Page](https://github.com/SohaibTouseef/Protfolio/blob/main/SohaibProtfolio/public/wesite-images/Home-mobile.png.png)
+![Next.js Creative Portfolio Website Contact Page](https://github.com/SohaibTouseef/Protfolio/blob/main/SohaibProtfolio/public/wesite-images/About-mobile.png.png)
+![Next.js Creative Portfolio Website Contact Page](https://github.com/SohaibTouseef/Protfolio/blob/main/SohaibProtfolio/public/wesite-images/Projects-moblie.png.png)
+![Next.js Creative Portfolio Website Contact Page](https://github.com/SohaibTouseef/Protfolio/blob/main/SohaibProtfolio/public/wesite-images/Contact-mobile.png.png)
 
 ## Resources Used in This Project
 
